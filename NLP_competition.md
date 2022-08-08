@@ -124,17 +124,9 @@
 * [머신러닝 마스터 클래스(ML)](http://www.yes24.com/Product/Goods/97559803)
 
 
+## Reference
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [https://campaign.naver.com/clova_airush/](https://campaign.naver.com/clova_airush/)
+- [https://gurukannan.medium.com/overview-of-mlops-ml-dev-ops-2899ecb97820](https://gurukannan.medium.com/overview-of-mlops-ml-dev-ops-2899ecb97820)
+- [https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/)
+- [https://medium.com/analytics-vidhya/ml03-9de2f0dbd62d](https://medium.com/analytics-vidhya/ml03-9de2f0dbd62d)
