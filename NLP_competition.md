@@ -107,6 +107,13 @@
         * 자료가 상대적으로 적음, 자료가 많은 영어와 다른 언어적 특성(형태소, 조사, 띄어쓰기 등)
     * HuggingFace는 NLP에서 거의 필수(+PyTorch)
 
+## NLP study
+![](https://github.com/graykode/nlp-roadmap/blob/master/img/nlp.png?raw=true)
+* [초보자 추천교재](https://wikidocs.net/book/2155)
+* [HuggingFace](https://huggingface.co/)
+* [Paperswithcode](https://paperswithcode.com/)
+* 
+
 
 ## NLP data
 * 공개 데이터
@@ -130,3 +137,5 @@
 - [https://gurukannan.medium.com/overview-of-mlops-ml-dev-ops-2899ecb97820](https://gurukannan.medium.com/overview-of-mlops-ml-dev-ops-2899ecb97820)
 - [https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/)
 - [https://medium.com/analytics-vidhya/ml03-9de2f0dbd62d](https://medium.com/analytics-vidhya/ml03-9de2f0dbd62d)
+- [https://github.com/graykode/nlp-roadmap](https://github.com/graykode/nlp-roadmap)
+
