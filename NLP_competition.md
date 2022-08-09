@@ -126,7 +126,8 @@
 * 직접 수집
     * 크롤링
         * 저작권 이슈에 주의
-
+## AI landscape
+![](https://ml-ops.org/img/ai-landscape.png)
 
 ## For Vision or ML
 * [머신러닝 문제 해결 전략(Vision, ML)](http://www.yes24.com/Product/Goods/108802734)
